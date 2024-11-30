@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanjin
+- 👋 Hi, I’m Sanjin, here you can find more of me https://fakecrime.bio/sanjin
 - 👀 I’m interested in programming, gaming and much more
 - 🌱 I’m currently learning to become programmer ofc and hacker hopefully
 - 💞️ I’m looking to collaborate on working with Aruino set, game development and cheat development
